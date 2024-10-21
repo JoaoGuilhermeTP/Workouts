@@ -1,82 +1,82 @@
 [
   {
-    "name": "Incline Hammer Curls",
-    "type": "strength",
-    "muscle": "biceps",
-    "equipment": "dumbbell",
-    "difficulty": "beginner",
-    "instructions": "Seat yourself on an incline bench with a dumbbell in each hand. You should pressed firmly against he back with your feet together. Allow the dumbbells to hang straight down at your side, holding them with a neutral grip. This will be your starting position. Initiate the movement by flexing at the elbow, attempting to keep the upper arm stationary. Continue to the top of the movement and pause, then slowly return to the start position."
+    "name": "Rosca Martelo Inclinada",
+    "type": "força",
+    "muscle": "bíceps",
+    "equipment": "halter",
+    "difficulty": "iniciante",
+    "instructions": "Sente-se em um banco inclinado com um halter em cada mão. Você deve estar firmemente pressionado contra o encosto com os pés juntos. Deixe os halteres pendurados retos para baixo ao seu lado, segurando-os com pegada neutra. Esta será sua posição inicial. Inicie o movimento flexionando o cotovelo, tentando manter a parte superior do braço estacionária. Continue até o topo do movimento e faça uma pausa, depois retorne lentamente à posição inicial."
   },
   {
-    "name": "Wide-grip barbell curl",
-    "type": "strength",
-    "muscle": "biceps",
-    "equipment": "barbell",
-    "difficulty": "beginner",
-    "instructions": "Stand up with your torso upright while holding a barbell at the wide outer handle. The palm of your hands should be facing forward. The elbows should be close to the torso. This will be your starting position. While holding the upper arms stationary, curl the weights forward while contracting the biceps as you breathe out. Tip: Only the forearms should move. Continue the movement until your biceps are fully contracted and the bar is at shoulder level. Hold the contracted position for a second and squeeze the biceps hard. Slowly begin to bring the bar back to starting position as your breathe in. Repeat for the recommended amount of repetitions.  Variations:  You can also perform this movement using an E-Z bar or E-Z attachment hooked to a low pulley. This variation seems to really provide a good contraction at the top of the movement. You may also use the closer grip for variety purposes."
+    "name": "Rosca barra reta com pegada aberta",
+    "type": "força",
+    "muscle": "bíceps",
+    "equipment": "barra",
+    "difficulty": "iniciante",
+    "instructions": "Fique em pé com o tronco ereto enquanto segura uma barra na pegada externa mais larga. As palmas das mãos devem estar voltadas para frente. Os cotovelos devem estar próximos ao tronco. Esta será sua posição inicial. Mantendo a parte superior dos braços estacionária, curve os pesos para frente enquanto contrai os bíceps durante a expiração. Dica: Apenas os antebraços devem se mover. Continue o movimento até que seus bíceps estejam totalmente contraídos e a barra esteja na altura dos ombros. Mantenha a posição contraída por um segundo e aperte os bíceps com força. Comece lentamente a trazer a barra de volta à posição inicial enquanto inspira. Repita pelo número recomendado de repetições. Variações: Você também pode realizar este movimento usando uma barra W ou acessório W conectado a uma polia baixa. Esta variação parece proporcionar uma boa contração no topo do movimento. Você também pode usar a pegada mais fechada para fins de variedade."
   },
   {
-    "name": "EZ-bar spider curl",
-    "type": "strength",
-    "muscle": "biceps",
-    "equipment": "barbell",
-    "difficulty": "intermediate",
-    "instructions": "Start out by setting the bar on the part of the preacher bench that you would normally sit on. Make sure to align the barbell properly so that it is balanced and will not fall off. Move to the front side of the preacher bench (the part where the arms usually lay) and position yourself to lay at a 45 degree slant with your torso and stomach pressed against the front side of the preacher bench. Make sure that your feet (especially the toes) are well positioned on the floor and place your upper arms on top of the pad located on the inside part of the preacher bench. Use your arms to grab the barbell with a supinated grip (palms facing up) at about shoulder width apart or slightly closer from each other. Slowly begin to lift the barbell upwards and exhale. Hold the contracted position for a second as you squeeze the biceps. Slowly begin to bring the barbell back to the starting position as your breathe in. . Repeat for the recommended amount of repetitions.  Variation: You can also use dumbbells when performing this exercise. Just make sure you place the dumbbells on the part of the preacher bench where you would normally sit properly."
+    "name": "Rosca spider com barra W",
+    "type": "força",
+    "muscle": "bíceps",
+    "equipment": "barra",
+    "difficulty": "intermediário",
+    "instructions": "Comece colocando a barra na parte do banco Scott onde você normalmente se sentaria. Certifique-se de alinhar a barra adequadamente para que fique equilibrada e não caia. Mova-se para a frente do banco Scott (a parte onde os braços geralmente se apoiam) e posicione-se deitado em um ângulo de 45 graus com o tronco e o estômago pressionados contra a frente do banco. Certifique-se de que seus pés (especialmente os dedos) estejam bem posicionados no chão e coloque seus braços superiores sobre o apoio localizado na parte interna do banco Scott. Use seus braços para segurar a barra com pegada supinada (palmas voltadas para cima) a aproximadamente a largura dos ombros ou um pouco mais próximos um do outro. Comece lentamente a levantar a barra e expire. Mantenha a posição contraída por um segundo enquanto aperta os bíceps. Comece lentamente a trazer a barra de volta à posição inicial enquanto inspira. Repita pelo número recomendado de repetições. Variação: Você também pode usar halteres ao realizar este exercício. Apenas certifique-se de colocar os halteres adequadamente na parte do banco Scott onde você normalmente se sentaria."
   },
   {
-    "name": "Hammer Curls",
-    "type": "strength",
-    "muscle": "biceps",
-    "equipment": "dumbbell",
-    "difficulty": "intermediate",
-    "instructions": "Stand up with your torso upright and a dumbbell on each hand being held at arms length. The elbows should be close to the torso. The palms of the hands should be facing your torso. This will be your starting position. Now, while holding your upper arm stationary, exhale and curl the weight forward while contracting the biceps. Continue to raise the weight until the biceps are fully contracted and the dumbbell is at shoulder level. Hold the contracted position for a brief moment as you squeeze the biceps. Tip: Focus on keeping the elbow stationary and only moving your forearm. After the brief pause, inhale and slowly begin the lower the dumbbells back down to the starting position. Repeat for the recommended amount of repetitions.  Variations: There are many possible variations for this movement. For instance, you can perform the exercise sitting down on a bench with or without back support and you can also perform it by alternating arms; first lift the right arm for one repetition, then the left, then the right, etc."
+    "name": "Rosca Martelo",
+    "type": "força",
+    "muscle": "bíceps",
+    "equipment": "halter",
+    "difficulty": "intermediário",
+    "instructions": "Fique em pé com o tronco ereto e um halter em cada mão sendo segurado na altura dos braços. Os cotovelos devem estar próximos ao tronco. As palmas das mãos devem estar voltadas para seu tronco. Esta será sua posição inicial. Agora, mantendo a parte superior do braço estacionária, expire e curve o peso para frente enquanto contrai os bíceps. Continue levantando o peso até que os bíceps estejam totalmente contraídos e o halter esteja na altura dos ombros. Mantenha a posição contraída por um breve momento enquanto aperta os bíceps. Dica: Concentre-se em manter o cotovelo estacionário e mover apenas seu antebraço. Após a breve pausa, inspire e comece lentamente a baixar os halteres de volta à posição inicial. Repita pelo número recomendado de repetições. Variações: Existem muitas variações possíveis para este movimento. Por exemplo, você pode realizar o exercício sentado em um banco com ou sem apoio nas costas e também pode realizá-lo alternando os braços; primeiro levante o braço direito para uma repetição, depois o esquerdo, depois o direito, etc."
   },
   {
-    "name": "EZ-Bar Curl",
-    "type": "strength",
-    "muscle": "biceps",
-    "equipment": "e-z_curl_bar",
-    "difficulty": "intermediate",
-    "instructions": "Stand up straight while holding an EZ curl bar at the wide outer handle. The palms of your hands should be facing forward and slightly tilted inward due to the shape of the bar. Keep your elbows close to your torso. This will be your starting position. Now, while keeping your upper arms stationary, exhale and curl the weights forward while contracting the biceps. Focus on only moving your forearms. Continue to raise the weight until your biceps are fully contracted and the bar is at shoulder level. Hold the top contracted position for a moment and squeeze the biceps. Then inhale and slowly lower the bar back to the starting position. Repeat for the recommended amount of repetitions.  Variations: You can also perform this movement using an E-Z attachment hooked to a low pulley. This variation seems to really provide a good contraction at the top of the movement. You may also use the closer grip for variety purposes."
+    "name": "Rosca com Barra W",
+    "type": "força",
+    "muscle": "bíceps",
+    "equipment": "barra_w",
+    "difficulty": "intermediário",
+    "instructions": "Fique em pé reto enquanto segura uma barra W na pegada externa mais larga. As palmas das suas mãos devem estar voltadas para frente e levemente inclinadas para dentro devido ao formato da barra. Mantenha os cotovelos próximos ao tronco. Esta será sua posição inicial. Agora, mantendo a parte superior dos braços estacionária, expire e curve os pesos para frente enquanto contrai os bíceps. Concentre-se em mover apenas os antebraços. Continue levantando o peso até que seus bíceps estejam totalmente contraídos e a barra esteja na altura dos ombros. Mantenha a posição contraída superior por um momento e aperte os bíceps. Então inspire e baixe lentamente a barra de volta à posição inicial. Repita pelo número recomendado de repetições. Variações: Você também pode realizar este movimento usando um acessório W conectado a uma polia baixa. Esta variação parece proporcionar uma boa contração no topo do movimento. Você também pode usar a pegada mais fechada para fins de variedade."
   },
   {
-    "name": "Zottman Curl",
-    "type": "strength",
-    "muscle": "biceps",
-    "equipment": "None",
-    "difficulty": "intermediate",
-    "instructions": "Stand up with your torso upright and a dumbbell in each hand being held at arms length. The elbows should be close to the torso. Make sure the palms of the hands are facing each other. This will be your starting position. While holding the upper arm stationary, curl the weights while contracting the biceps as you breathe out. Only the forearms should move. Your wrist should rotate so that you have a supinated (palms up) grip. Continue the movement until your biceps are fully contracted and the dumbbells are at shoulder level. Hold the contracted position for a second as you squeeze the biceps. Now during the contracted position, rotate your wrist until you now have a pronated (palms facing down) grip with the thumb at a higher position than the pinky. Slowly begin to bring the dumbbells back down using the pronated grip. As the dumbbells close your thighs, start rotating the wrist so that you go back to a neutral (palms facing your body) grip. Repeat for the recommended amount of repetitions."
+    "name": "Rosca Zottman",
+    "type": "força",
+    "muscle": "bíceps",
+    "equipment": "Nenhum",
+    "difficulty": "intermediário",
+    "instructions": "Fique em pé com o tronco ereto e um halter em cada mão sendo segurado na altura dos braços. Os cotovelos devem estar próximos ao tronco. Certifique-se de que as palmas das mãos estejam voltadas uma para a outra. Esta será sua posição inicial. Mantendo a parte superior do braço estacionária, curve os pesos enquanto contrai os bíceps durante a expiração. Apenas os antebraços devem se mover. Seu pulso deve girar para que você tenha uma pegada supinada (palmas para cima). Continue o movimento até que seus bíceps estejam totalmente contraídos e os halteres estejam na altura dos ombros. Mantenha a posição contraída por um segundo enquanto aperta os bíceps. Agora durante a posição contraída, gire seu pulso até ter uma pegada pronada (palmas voltadas para baixo) com o polegar em uma posição mais alta que o dedo mindinho. Comece lentamente a trazer os halteres de volta para baixo usando a pegada pronada. Quando os halteres se aproximarem das coxas, comece a girar o pulso para voltar a uma pegada neutra (palmas voltadas para o corpo). Repita pelo número recomendado de repetições."
   },
   {
-    "name": "Biceps curl to shoulder press",
-    "type": "strength",
-    "muscle": "biceps",
-    "equipment": "dumbbell",
-    "difficulty": "beginner",
-    "instructions": "Begin in a standing position with a dumbbell in each hand. Your arms should be hanging at your sides with your palms facing forward. Look directly ahead, keeping your chest up, with your feet shoulder-width apart. This will be your starting position. Initiate the movement by flexing the elbows to curl the weight. Do not use momentum or flex through the shoulder, instead use a controlled motion. Execute the pressing movement by extending the arm, flexing and abducting the shoulder to rotate the arm as you press above your head. Pause at the top of the motion before reversing the movement to return to the starting position. Complete the desired number of repetitions before switching to the opposite side."
+    "name": "Rosca até desenvolvimento de ombros",
+    "type": "força",
+    "muscle": "bíceps",
+    "equipment": "halter",
+    "difficulty": "iniciante",
+    "instructions": "Comece em pé com um halter em cada mão. Seus braços devem estar pendurados ao lado do corpo com as palmas voltadas para frente. Olhe diretamente para frente, mantendo o peito erguido, com os pés na largura dos ombros. Esta será sua posição inicial. Inicie o movimento flexionando os cotovelos para fazer a rosca com o peso. Não use momento ou flexione através do ombro, em vez disso use um movimento controlado. Execute o movimento de pressão estendendo o braço, flexionando e abduzindo o ombro para girar o braço enquanto você pressiona acima da cabeça. Faça uma pausa no topo do movimento antes de reverter o movimento para retornar à posição inicial. Complete o número desejado de repetições antes de trocar para o lado oposto."
   },
   {
-    "name": "Barbell Curl",
-    "type": "strength",
-    "muscle": "biceps",
-    "equipment": "barbell",
-    "difficulty": "intermediate",
-    "instructions": "Stand up with your torso upright while holding a barbell at a shoulder-width grip. The palm of your hands should be facing forward and the elbows should be close to the torso. This will be your starting position. While holding the upper arms stationary, curl the weights forward while contracting the biceps as you breathe out. Tip: Only the forearms should move. Continue the movement until your biceps are fully contracted and the bar is at shoulder level. Hold the contracted position for a second and squeeze the biceps hard. Slowly begin to bring the bar back to starting position as your breathe in. Repeat for the recommended amount of repetitions.  Variations:  You can also perform this movement using a straight bar attachment hooked to a low pulley. This variation seems to really provide a good contraction at the top of the movement. You may also use the closer grip for variety purposes."
+    "name": "Rosca com Barra Reta",
+    "type": "força",
+    "muscle": "bíceps",
+    "equipment": "barra",
+    "difficulty": "intermediário",
+    "instructions": "Fique em pé com o tronco ereto enquanto segura uma barra com pegada na largura dos ombros. A palma das suas mãos deve estar voltada para frente e os cotovelos devem estar próximos ao tronco. Esta será sua posição inicial. Mantendo a parte superior dos braços estacionária, curve os pesos para frente enquanto contrai os bíceps durante a expiração. Dica: Apenas os antebraços devem se mover. Continue o movimento até que seus bíceps estejam totalmente contraídos e a barra esteja na altura dos ombros. Mantenha a posição contraída por um segundo e aperte os bíceps com força. Comece lentamente a trazer a barra de volta à posição inicial enquanto inspira. Repita pelo número recomendado de repetições. Variações: Você também pode realizar este movimento usando um acessório de barra reta conectado a uma polia baixa. Esta variação parece proporcionar uma boa contração no topo do movimento. Você também pode usar a pegada mais fechada para fins de variedade."
   },
   {
-    "name": "Concentration curl",
-    "type": "strength",
-    "muscle": "biceps",
-    "equipment": "dumbbell",
-    "difficulty": "intermediate",
-    "instructions": "Sit down on a flat bench with one dumbbell in front of you between your legs. Your legs should be spread with your knees bent and feet on the floor. Use your right arm to pick the dumbbell up. Place the back of your right upper arm on the top of your inner right thigh. Rotate the palm of your hand until it is facing forward away from your thigh. Tip: Your arm should be extended and the dumbbell should be above the floor. This will be your starting position. While holding the upper arm stationary, curl the weights forward while contracting the biceps as you breathe out. Only the forearms should move. Continue the movement until your biceps are fully contracted and the dumbbells are at shoulder level. Tip: At the top of the movement make sure that the little finger of your arm is higher than your thumb. This guarantees a good contraction. Hold the contracted position for a second as you squeeze the biceps. Slowly begin to bring the dumbbells back to starting position as your breathe in. Caution: Avoid swinging motions at any time. Repeat for the recommended amount of repetitions. Then repeat the movement with the left arm.  Variations: This exercise can be performed standing with the torso bent forward and the arm in front of you. In this case, no leg support is used for the back of your arm so you will need to make extra effort to ensure no movement of the upper arm. This is a more challenging version of the exercise and is not recommended for people with lower back issues."
+    "name": "Rosca Concentrada",
+    "type": "força",
+    "muscle": "bíceps",
+    "equipment": "halter",
+    "difficulty": "intermediário",
+    "instructions": "Sente-se em um banco reto com um halter à sua frente entre as pernas. Suas pernas devem estar abertas com os joelhos dobrados e os pés no chão. Use seu braço direito para pegar o halter. Coloque a parte de trás do seu braço direito superior na parte superior da sua coxa direita interna. Gire a palma da sua mão até que esteja voltada para frente, longe da coxa. Dica: Seu braço deve estar estendido e o halter deve estar acima do chão. Esta será sua posição inicial. Mantendo a parte superior do braço estacionária, curve os pesos para frente enquanto contrai os bíceps durante a expiração. Apenas os antebraços devem se mover. Continue o movimento até que seus bíceps estejam totalmente contraídos e os halteres estejam na altura dos ombros. Dica: No topo do movimento, certifique-se de que o dedo mindinho do seu braço esteja mais alto que seu polegar. Isso garante uma boa contração. Mantenha a posição contraída por um segundo enquanto aperta os bíceps. Comece lentamente a trazer os halteres de volta à posição inicial enquanto inspira. Cuidado: Evite movimentos de balanço em qualquer momento. Repita pelo número recomendado de repetições. Então repita o movimento com o braço esquerdo. Variações: Este exercício pode ser realizado em pé com o tronco inclinado para frente e o braço à sua frente. Neste caso, nenhum suporte da perna é usado para a parte de trás do seu braço, então você precisará fazer um esforço extra para garantir que não haja movimento da parte superior do braço. Esta é uma versão mais desafiadora do exercício e não é recomendada para pessoas com problemas na lombar."
   },
   {
-    "name": "Flexor Incline Dumbbell Curls",
-    "type": "strength",
-    "muscle": "biceps",
-    "equipment": "dumbbell",
-    "difficulty": "beginner",
-    "instructions": "Hold the dumbbell towards the side farther from you so that you have more weight on the side closest to you. (This can be done for a good effect on all bicep dumbbell exercises). Now do a normal incline dumbbell curl, but keep your wrists as far back as possible so as to neutralize any stress that is placed on them. Sit on an incline bench that is angled at 45-degrees while holding a dumbbell on each hand. Let your arms hang down on your sides, with the elbows in, and turn the palms of your hands forward with the thumbs pointing away from the body. Tip: You will keep this hand position throughout the movement as there should not be any twisting of the hands as they come up. This will be your starting position. Curl up the two dumbbells at the same time until your biceps are fully contracted and exhale. Tip: Do not swing the arms or use momentum. Keep a controlled motion at all times. Hold the contracted position for a second at the top. As you inhale, slowly go back to the starting position. Repeat for the recommended amount of repetitions.  Caution: Do not extend your arms totally as you could injure your elbows if you hyperextend them. Also, make sure that on the way down you move slowly to avoid injury. Variations: You can use cables for this movement as well."
+    "name": "Rosca Flexora com Halteres Inclinada",
+    "type": "força",
+    "muscle": "bíceps",
+    "equipment": "halter",
+    "difficulty": "iniciante",
+    "instructions": "Segure o halter voltado para o lado mais distante de você para que você tenha mais peso no lado mais próximo de você. (Isso pode ser feito para um bom efeito em todos os exercícios de bíceps com halter). Agora faça uma rosca normal com halter inclinado, mas mantenha seus pulsos o mais para trás possível para neutralizar qualquer estresse colocado sobre eles. Sente-se em um banco inclinado que está angulado a 45 graus enquanto segura um halter em cada mão. Deixe seus braços pendurados aos seus lados, com os cotovelos para dentro, e vire as palmas das suas mãos para frente com os polegares apontando para longe do corpo. Dica: Você manterá esta posição das mãos durante todo o movimento, pois não deve haver nenhuma torção das mãos enquanto elas sobem. Esta será sua posição inicial. Curve os dois halteres ao mesmo tempo até que seus bíceps estejam totalmente contraídos e expire. Dica: Não balance os braços ou use momento. Mantenha um movimento controlado o tempo todo. Mantenha a posição contraída por um segundo no topo. Enquanto inspira, volte lentamente à posição inicial. Repita pelo número recomendado de repetições. Cuidado: Não estenda totalmente seus braços, pois você poderia machucar seus cotovelos se os hiperextender. Além disso, certifique-se de que na descida você se mova lentamente para evitar lesões. Variações: Você pode usar cabos para este movimento também."
   }
 ]
