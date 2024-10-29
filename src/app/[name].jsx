@@ -10,6 +10,7 @@ import { useState } from "react";
 export default function ExerciseDetailsScreen() {
   // Get URL parameters (in this case, the 'name' parameter from [name].js)
   const params = useLocalSearchParams();
+  // State variable to keep track of whether user expanded or contracted instructions
   const [seeMore, setSeeMore] = useState(false);
 
   // Find the exercise in our data that matches the name from the URL. The find() method returns the first element that matches the condition
@@ -29,11 +30,12 @@ export default function ExerciseDetailsScreen() {
         </View>
 
         <View style={styles.panel}>
+          {/* The numberOfLines prop is conditional to the value of seeMore. If it's true, the value is set to  (which shows every line), otherwise it is set to 3 (show only 3 lines) */}
           <Text style={styles.instructions} numberOfLines={seeMore ? 0 : 3}>
             {exercise.instructions}
           </Text>
           <Text style={styles.seeMore} onPress={() => setSeeMore(!seeMore)}>
-            {seeMore ? 'Ver menos' : 'Ver mais'}
+            {seeMore ? "Ver menos" : "Ver mais"}
           </Text>
         </View>
       </ScrollView>
